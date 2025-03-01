@@ -1,4 +1,6 @@
 # 👋 Hello, I'm Kelvin Maina!
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 I'm an aspiring **Cybersecurity Professional** with a passion for protecting digital systems and data from emerging threats. With a background in **Business Information Technology** and hands-on experience in various security tools, I'm dedicated to constantly learning and evolving in the fast-paced world of cybersecurity.
 
