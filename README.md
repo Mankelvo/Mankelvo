@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Kelvin Maina]!
+# 👋 Hello, I'm Kelvin Maina!
 
 I'm an aspiring **Cybersecurity Professional** with a passion for protecting digital systems and data from emerging threats. With a background in **Business Information Technology** and hands-on experience in various security tools, I'm dedicated to constantly learning and evolving in the fast-paced world of cybersecurity.
 
