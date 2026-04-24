@@ -1,32 +1,36 @@
-# 👋 Hello, I'm Kelvin Maina!
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi 👋 I'm Kelvin Maina
 
+### Aspiring Front-End Developer | React & JavaScript Enthusiast
 
-I'm an aspiring **Cybersecurity Professional** with a passion for protecting digital systems and data from emerging threats. With a background in **Business Information Technology** and hands-on experience in various security tools, I'm dedicated to constantly learning and evolving in the fast-paced world of cybersecurity.
+I’m passionate about building modern, responsive, and user-friendly web applications.
 
-🔍 **Current Focus**:  
-- Preparing for **CompTIA Security+** certification to deepen my understanding of security principles, network defense, and risk management.
-- Exploring topics in **ethical hacking**, **penetration testing**, and **network security**.
-- Contributing to open-source cybersecurity projects and creating resources to help others in the community.
+With a background in Business Information Technology and hands-on experience in JavaScript and React, I enjoy turning ideas into real-world projects while continuously improving my skills in front-end development.
 
-🔧 **Technical Skills**:
-- **Security Tools**: Kali Linux, Wireshark, Nmap, Metasploit
-- **Programming**: Python, Bash scripting
-- **Frameworks**: OWASP, CIS, NIST
-- **Cloud Security**: AWS, Azure
-- **Networking**: TCP/IP, DNS, HTTP(S), VPNs
-- **Version Control**: Git, GitHub
+🚀 Current Focus:
+- Building real-world projects with React, JavaScript, and Tailwind CSS  
+- Strengthening my problem-solving and coding skills  
+- Learning advanced React concepts and best practices  
+- Expanding into Full-Stack Development and DevOps  
 
-🌱 **Learning & Development**:  
-- **Cybersecurity Certifications**: CompTIA Security+, CEH (Certified Ethical Hacker), and CISSP (future goal)
-- **Learning Platforms**: Coursera, Udemy, Pluralsight, Cybrary
-- **Books**: "The Web Application Hacker's Handbook", "The Hacker Playbook"
+💻 Tech Stack:
+- Frontend: HTML, CSS, JavaScript, React, Tailwind CSS  
+- Tools: Git, GitHub, Vite, VS Code  
+- APIs: REST APIs, Fetch API  
+- Testing: Jest, React Testing Library  
+- Currently Learning: Node.js, Express, MongoDB  
 
-📚 **What I'm Working On**:
-- Building a portfolio of **penetration testing** labs and **security automation scripts**.
-- Contributing to **open-source security projects** to enhance my practical skills and collaborate with others in the community.
+📌 Featured Projects:
+- 🚀 React Tailwind Todo App  
+- 🛒 Shopping Cart App  
+- 🌐 API-Based React Projects  
+- 📱 Responsive UI Projects  
 
-🌍 **Let's Connect**:
-- **LinkedIn**: [www.linkedin.com/in/kelvin-maina-789086154]
-- **Twitter**: []
-- **Email**: [kelvostudy@gmail.com]
+🌱 Currently Learning:
+- Advanced React patterns  
+- State management with Context API & useReducer  
+- Testing and Continuous Integration  
+- Backend development for full-stack applications  
+
+📫 Let's Connect:
+- LinkedIn: www.linkedin.com/in/kelvin-maina-789086154  
+- Email: kelvostudy@gmail.com  
