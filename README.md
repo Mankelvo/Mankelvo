@@ -20,7 +20,8 @@ With a background in Business Information Technology and hands-on experience in 
 - Currently Learning: Node.js, Express, MongoDB  
 
 📌 Featured Projects:
-- 🚀 React Tailwind Todo App  
+- 🚀 React Tailwind Todo App:
+   https://react-tailwind-todo-app.vercel.app/
 - 🛒 Shopping Cart App  
 - 🌐 API-Based React Projects  
 - 📱 Responsive UI Projects  
