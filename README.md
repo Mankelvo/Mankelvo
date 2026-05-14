@@ -1,37 +1,45 @@
 # Hi 👋 I'm Kelvin Maina
 
-### Aspiring Front-End Developer | React & JavaScript Enthusiast
+### Front-End Developer | React & JavaScript Enthusiast
 
-I’m passionate about building modern, responsive, and user-friendly web applications.
+I am a front-end developer passionate about building modern, responsive, and user-centered web applications.
 
-With a background in Business Information Technology and hands-on experience in JavaScript and React, I enjoy turning ideas into real-world projects while continuously improving my skills in front-end development.
+With a background in Business Information Technology and practical experience in JavaScript and React, I enjoy transforming ideas into functional and engaging digital experiences while continuously expanding my knowledge of modern web development technologies.
 
-🚀 Current Focus:
-- Building real-world projects with React, JavaScript, and Tailwind CSS  
-- Strengthening my problem-solving and coding skills  
-- Learning advanced React concepts and best practices  
-- Expanding into Full-Stack Development and DevOps  
+🚀 Current Focus
 
-💻 Tech Stack:
-- Frontend: HTML, CSS, JavaScript, React, Tailwind CSS  
-- Tools: Git, GitHub, Vite, VS Code  
-- APIs: REST APIs, Fetch API  
-- Testing: Jest, React Testing Library  
-- Currently Learning: Node.js, Express, MongoDB  
+* Developing responsive web applications using React, JavaScript, and Tailwind CSS
+* Writing clean, maintainable, and scalable frontend code
+* Strengthening problem-solving and software development skills
+* Expanding knowledge in full-stack development and DevOps practices
 
-📌 Featured Projects:
-- 🚀 React Tailwind Todo App:
-   https://react-tailwind-todo-app.vercel.app/
-- 🛒 Shopping Cart App  
-- 🌐 API-Based React Projects  
-- 📱 Responsive UI Projects  
+💻 Technical Skills
 
-🌱 Currently Learning:
-- Advanced React patterns  
-- State management with Context API & useReducer  
-- Testing and Continuous Integration  
-- Backend development for full-stack applications  
+* Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
+* Tools & Platforms: Git, GitHub, Vite, VS Code
+* APIs: REST APIs, Fetch API
+* Testing: Jest, React Testing Library
+* Currently Learning: Node.js, Express.js, MongoDB
 
-📫 Let's Connect:
-- LinkedIn: www.linkedin.com/in/kelvin-maina-789086154  
-- Email: kelvostudy@gmail.com  
+📌 Featured Projects
+
+* 🚀 React Tailwind Todo App
+  https://react-tailwind-todo-app.vercel.app/
+
+* 🛒 Shopping Cart Application
+
+* 🌐 API-Driven React Applications
+
+* 📱 Responsive User Interface Projects
+
+🌱 Currently Exploring
+
+* Advanced React patterns and best practices
+* State management with Context API and useReducer
+* Testing workflows and Continuous Integration
+* Backend technologies for full-stack application development
+
+📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/kelvin-maina-789086154](http://www.linkedin.com/in/kelvin-maina-789086154)
+* Email: [kelvostudy@gmail.com](mailto:kelvostudy@gmail.com)
